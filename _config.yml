@@ -15,7 +15,7 @@ name:                iobio home
 title:               iobio
 tagline:             'real-time genomic analysis'
 description:         blog on iobio, genomics, and visualization
-url:                 http://iobio.io
+url:                 https://anderspitman.github.io/homepage
 baseurl:             /
 
 # About/contact
